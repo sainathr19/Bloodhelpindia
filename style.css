@@ -1,0 +1,64 @@
+
+
+
+.button {
+	border-radius: 20px;
+	border: 1px solid #FFFFFF;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 12px 45px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	transition: transform 80ms ease-in;
+	margin: 15px;
+	margin-left: 40%;
+}
+
+
+
+.container {
+    margin-top: 50px;
+	background: #FF416C;
+	border-radius: 10px;
+  	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+			0 10px 10px rgba(0,0,0,0.22);
+	position: relative;
+	overflow: hidden;
+	width: 768px;
+	max-width: 100%;
+	min-height: 200px;
+
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.label {
+    font-family: sans-serif;
+	margin-left: 200px;
+	font-weight: bold;
+	margin-bottom: 5px;
+	font-size: 20px;
+}
+
+.input{
+	width: 50%;
+	height: 40px;
+	margin-left: 200px;
+	border-radius: 10px;
+	border-width: 0;
+	margin-bottom: 15px;
+
+}
+
+.radio{	
+	height: 20px;
+	width: 20px;
+}
+
